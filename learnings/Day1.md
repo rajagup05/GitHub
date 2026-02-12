@@ -7,3 +7,5 @@
 **Git commit -m "message"** -> commits files with a message in local repo
 
 **Git push app.py** -> pushes changed file to GitHub repo 
+
+Gir
