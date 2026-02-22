@@ -28,6 +28,6 @@ This command is typically used after you have initialized a local repository and
 
 1. **Cookies (Browser-Based State):** Cookies are small pieces of data stored on the client side (your browser) that are automatically sent back to the server with every request. 
 
-- Role in GitHub: Primarily used for browser-based user interaction. When you log in to GitHub via your browser, a `user_session` cookie is set, allowing you to browse, comment, and commit without re-entering your password.
-- Key Security Flags: GitHub uses `Secure` (sent only over HTTPS) and `HttpOnly` (inaccessible to JavaScript) flags to prevent session hijacking and Cross-Site Scripting (XSS) attacks.
-- DevOps Example: If you are using the GitHub web interface to manage pull requests, your session is maintained by cookies
+- **Role in GitHub:** Primarily used for browser-based user interaction. When you log in to GitHub via your browser, a `user_session` cookie is set, allowing you to browse, comment, and commit without re-entering your password.
+- **Key Security Flags:** GitHub uses `Secure` (sent only over HTTPS) and `HttpOnly` (inaccessible to JavaScript) flags to prevent session hijacking and Cross-Site Scripting (XSS) attacks.
+- **DevOps Example:** If you are using the GitHub web interface to manage pull requests, your session is maintained by cookies
