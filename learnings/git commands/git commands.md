@@ -1,9 +1,10 @@
-#### 1. git config user.name "your name" 
+## 1. git config user.name "your name" 
 
 => The command `git config user.name "your name"` sets the username for Git commits, either for a specific repository or globally for all your repositories. 
 
 [ sets username for the current local git repo to track who made the commits in this repo. ]
 
+**For all your repositories (global setting):**
 
 
 git config --global user.name "Your Name") sets the username for all Git repositories on your system.
