@@ -6,6 +6,9 @@
 
 **For all your repositories (global setting):** `git config --global user.name "Your Name"`
 
+**For a single, specific repository**: `git config user.name "Project Name"`
+
+
 
 
 git config --global user.name "Your Name") sets the username for all Git repositories on your system.
