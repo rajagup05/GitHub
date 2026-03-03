@@ -4,7 +4,8 @@
 
 [ sets username for the current local git repo to track who made the commits in this repo. ]
 
-**For all your repositories (global setting):**
+**For all your repositories (global setting):** `git config --global user.name "Your Name"`
+
 
 
 git config --global user.name "Your Name") sets the username for all Git repositories on your system.
