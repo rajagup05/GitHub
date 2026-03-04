@@ -11,7 +11,6 @@
 
 
 
-git config --global user.name "Your Name") sets the username for all Git repositories on your system.
 
 git add -> add files to staging area and stores all the changes in .git folder
 
