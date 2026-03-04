@@ -12,7 +12,9 @@
 
 
 
-git add -> add files to staging area and stores all the changes in .git folder
+## 2. git add 
+
+=> add files to staging area and stores all the changes in .git folder
 
 git log -> it tells what was changed , when and who has made that changes.
 
