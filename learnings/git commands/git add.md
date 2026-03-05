@@ -7,4 +7,5 @@ The `git add` command is a fundamental Git operation used to move changes from t
 
 - Stage a specific file: `git add <filename>`
 - Stage multiple specific files: `git add <file1> <file2> ...`
+- Stage all changes in the current directory and its subdirectories: `git add .`
 
