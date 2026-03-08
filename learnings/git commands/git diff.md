@@ -5,5 +5,5 @@
 
 The `git diff` command is a fundamental Git utility used to display the differences between various states of a repository, such as between the working directory and the staging area, two commits, or two branches. It helps developers review and understand changes in their codebase in a standardized format. 
 
-Common `git diff` Usages:
+### Common `git diff` Usages:
 
