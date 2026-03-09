@@ -9,7 +9,8 @@ The `git diff` command is a fundamental Git utility used to display the differen
 
 1. `git diff` (**View unstaged changes**): This shows changes in your working directory that you have not yet added to the staging area with `git add`.
 
-2. View staged changes:
+2. **View staged changes**: These commands display the differences between the staging area (index) and the last commit (`HEAD`), allowing you to review exactly what will be included in the next commit.
+
 
 `git diff --staged`
 #### or
