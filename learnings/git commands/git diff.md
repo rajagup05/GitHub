@@ -11,4 +11,7 @@ The `git diff` command is a fundamental Git utility used to display the differen
 
 2. View staged changes:
 
+`git diff --staged`
+#### or
+`git diff --cached`
 
