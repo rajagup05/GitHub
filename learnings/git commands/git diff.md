@@ -7,3 +7,6 @@ The `git diff` command is a fundamental Git utility used to display the differen
 
 ### Common `git diff` Usages:
 
+1. `git diff` (View unstaged changes): This shows changes in your working directory that you have not yet added to the staging area with git add.
+
+
