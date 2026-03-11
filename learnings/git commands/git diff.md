@@ -16,3 +16,4 @@ The `git diff` command is a fundamental Git utility used to display the differen
 #### or
 `git diff --cached`
 
+3. git diff HEAD: Shows all local changes (both staged and unstaged) compared to the most recent commit. (Working Directory vs. Last Commit)
