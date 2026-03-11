@@ -18,4 +18,4 @@ The `git diff` command is a fundamental Git utility used to display the differen
 
 3. `git diff HEAD`: Shows all local changes (both staged and unstaged) compared to the most recent commit. (Working Directory vs. Last Commit)
 
-4. git diff <commit1> <commit2>: Compares the snapshots of two different commits. (Two specific commits)
+4. `git diff <commit1> <commit2>`: Compares the snapshots of two different commits. (Two specific commits)
