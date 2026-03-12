@@ -20,4 +20,4 @@ The `git diff` command is a fundamental Git utility used to display the differen
 
 4. `git diff <commit1> <commit2>`: Compares the snapshots of two different commits. (Two specific commits)
 
-5. git diff <branch1> <branch2>: Compares the tips of two different branches.
+5. `git diff <branch1> <branch2>`: Compares the tips of two different branches.
