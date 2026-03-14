@@ -26,5 +26,5 @@ The `git diff` command is a fundamental Git utility used to display the differen
 
 ### Understanding `git diff` Output:
 
-The output of git diff is in a standardized format, usually a unified diff, which uses special characters to indicate changes. 
+The output of `git diff` is in a standardized format, usually a unified diff, which uses special characters to indicate changes. 
 
