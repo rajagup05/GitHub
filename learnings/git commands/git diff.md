@@ -23,3 +23,5 @@ The `git diff` command is a fundamental Git utility used to display the differen
 5. `git diff <branch1> <branch2>`: Compares the tips of two different branches.
 
 6. `git diff <file_path>`:  Shows changes in a specific file in the working directory compared to the staging area. 
+
+### Understanding git diff Output:
