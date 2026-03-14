@@ -28,8 +28,8 @@ The `git diff` command is a fundamental Git utility used to display the differen
 
 The output of `git diff` is in a standardized format, usually a unified diff, which uses special characters to indicate changes. 
 
-- --- a/filename indicates the original version of the file (A version).
-- +++ b/filename indicates the new version of the file (B version).
-- Lines starting with - (red in color) are lines that were removed from the original file.
-- Lines starting with + (green in color) are lines that were added to the new file.
+- `--- a/filename` indicates the original version of the file (A version).
+- `+++ b/filename` indicates the new version of the file (B version).
+- Lines starting with `-` (red in color) are lines that were removed from the original file.
+- Lines starting with `+` (green in color) are lines that were added to the new file.
 - Lines starting with (space) are unchanged lines, often shown for
