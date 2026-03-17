@@ -7,3 +7,5 @@ The `git revert` command is used to undo the changes of a specific commit by cre
 
 - Revert the latest commit: `git revert HEAD`
 - Revert a specific commit: `git revert <commit-hash>`
+
+### Key Differences: Revert vs. Reset: 
