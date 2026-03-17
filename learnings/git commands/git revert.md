@@ -10,6 +10,6 @@ The `git revert` command is used to undo the changes of a specific commit by cre
 
 ### Key Differences: Revert vs. Reset: 
 
-**History:**
-- git revert: Preserves history; adds a new commit
-- git reset: Rewrites history; removes commits
+- `git revert`: Preserves history; adds a new commit
+
+- `git reset`: Rewrites history; removes commits
