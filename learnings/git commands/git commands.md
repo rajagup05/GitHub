@@ -18,7 +18,9 @@
 => it tells what was changed , when and who has made that changes. The `git log` command displays the history of committed changes in a Git repository. By default, it lists commits in reverse chronological order, showing the commit hash, author, date, and message for each entry. 
 
 
-git diff -> it is similar to git status but advanced version of it. It can show what has been added, removed, etc. between working dir and staging env or changes between two commits or staged but non commited messages or unstaged changes or diff between two branches.
+## git diff 
+
+=> it is similar to git status but advanced version of it. It can show what has been added, removed, etc. between working dir and staging env or changes between two commits or staged but non commited messages or unstaged changes or diff between two branches.
 
 Whenever you commit any changes a unique commit id/hash is generated.
 Git is a version control tool which tracks every changes made.
