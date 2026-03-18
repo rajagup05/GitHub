@@ -25,7 +25,9 @@
 Whenever you commit any changes a unique commit id/hash is generated.
 Git is a version control tool which tracks every changes made.
 
-git revert commit id/hash -> it is used to revert the changes made/pushed to remote github repo.
+## git revert commit id/hash 
+
+=> it is used to revert the changes made/pushed to remote github repo.
 
 git reset HEAD~1 -> it uncommits the file/recent changes from staging area.
 
