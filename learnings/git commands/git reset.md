@@ -6,6 +6,6 @@ The three main modes determine what happens to your files after moving the branc
 
 1. `--soft`:  
 
-Moves the branch HEAD pointer to the specified commit.
-Keeps changes staged in the index and untouched in the working directory.
+Moves the branch HEAD pointer to the specified commit. \
+Keeps changes staged in the index and untouched in the working directory. \
 Use case: Reorganize or combine multiple commits into a single, cleaner one, ready for immediate recommit.
