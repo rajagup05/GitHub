@@ -14,3 +14,5 @@ The three main modes determine what happens to your files after moving the branc
   - Moves the branch HEAD pointer to the specified commit.
   - Unstages the changes from the index, but leaves them as modified files in the working directory.
   - Use case: Undo commits and the staging process, allowing you to re-evaluate and selectively stage the changes again from scratch. You can run git status to see the changes as "not staged for commit".
+
+- `--hard`:
