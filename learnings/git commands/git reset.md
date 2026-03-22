@@ -21,5 +21,5 @@ The three main modes determine what happens to your files after moving the branc
   - **Use case**: Completely abandon all recent work (committed and uncommitted) and revert to a clean slate of a previous commit. This is a destructive action and should be used with extreme caution on local branches only, as the changes may be permanently lost. 
 
 
-**Common git reset Commands: **
+**Common git reset Commands:**
 
