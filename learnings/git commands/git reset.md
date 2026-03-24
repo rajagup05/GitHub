@@ -23,7 +23,7 @@ The three main modes determine what happens to your files after moving the branc
 
 **Common git reset Commands:**
 
-  - Unstaging a file: To unstage a specific file while keeping local changes, use git reset <file> or the equivalent git restore --staged <file>.
-  - Undoing the last commit but keeping the changes: Use git reset --soft HEAD~1.
-  - Completely discarding recent commits and changes: Use the destructive command git reset --hard HEAD~1 to move back one commit and remove all subsequent changes.
-  - Discarding all local uncommitted changes: Use git reset --hard HEAD to revert the working directory and index to the last committed state. 
+  - **Unstaging a file**: To unstage a specific file while keeping local changes, use git reset <file> or the equivalent git restore --staged <file>.
+  - **Undoing the last commit but keeping the changes**: Use git reset --soft HEAD~1.
+  - **Completely discarding recent commits and changes**: Use the destructive command git reset --hard HEAD~1 to move back one commit and remove all subsequent changes.
+  - **Discarding all local uncommitted changes**: Use git reset --hard HEAD to revert the working directory and index to the last committed state. 
